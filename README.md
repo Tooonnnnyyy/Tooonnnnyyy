@@ -1,14 +1,8 @@
-<div align="center">
-
 # Tony Bi
 
-### AI-enabled digital product · interaction design · systems thinking
+### AI-enabled digital product builder · interaction design · systems thinking
 
-Canada · University of Ottawa · building in public, one testable prototype at a time
-
-</div>
-
-### Digital product builder working at the intersection of AI, interaction design, and systems thinking
+I build small, testable products that turn ambiguous ideas into working interfaces, simulations, and evidence.
 
 I turn ambiguous ideas into working interfaces, simulations, and evidence. My current work combines digital transformation, product design, browser AI, and practical software delivery.
 
@@ -16,9 +10,10 @@ I turn ambiguous ideas into working interfaces, simulations, and evidence. My cu
 - 🧭 Background in business management and consumer behaviour
 - 🛠️ Building with React, Vite, TypeScript, Python, MediaPipe, and Three.js
 - 🔬 Learning through system models, synthetic data, experiments, and user-centred iteration
-- 📍 Canada · open to AI-enabled digital product and product engineering opportunities
+- 📍 Canada
+- 💼 Open to AI-enabled digital product and product engineering opportunities
 
-## What I am building
+## Featured projects
 
 | Project | What it demonstrates |
 | --- | --- |
@@ -35,12 +30,12 @@ question → smallest useful prototype → testable evidence → user feedback �
 
 I care about the boundary between a compelling demo and a dependable product: explicit assumptions, version control, meaningful tests, privacy-aware defaults, and honest release status.
 
-## Current learning threads
+## Tech & interests
 
-- Systems science: stochastic processes, inverse-transform sampling, discrete-event simulation, and synthetic KPI experiments
-- AI product delivery: model boundaries, evaluation, reproducibility, and safe release workflows
-- Interaction design: making complex tools understandable to non-technical users
-- Web development: accessible React interfaces, browser computer vision, and lightweight 3D environments
+- **Languages:** JavaScript, TypeScript, Python, HTML, CSS
+- **Tools:** React, Vite, Three.js, MediaPipe, GitHub Actions, Git
+- **Focus:** AI product delivery, browser computer vision, interaction design, systems simulation
+- **Learning:** stochastic processes, inverse-transform sampling, discrete-event simulation, synthetic KPI experiments
 
 ## Connect
 
