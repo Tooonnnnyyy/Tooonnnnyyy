@@ -10,7 +10,7 @@ I turn ambiguous ideas into working interfaces, simulations, and evidence. My cu
 - 🧭 Background in business management and consumer behaviour
 - 🛠️ Building with React, Vite, TypeScript, Python, MediaPipe, and Three.js
 - 🔬 Learning through system models, synthetic data, experiments, and user-centred iteration
-- 📍 Canada
+- 📍 Ottawa
 - 💼 Open to AI-enabled digital product and product engineering opportunities
 
 ## Featured projects
