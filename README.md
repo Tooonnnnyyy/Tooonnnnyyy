@@ -1,45 +1,52 @@
-# Tony Bi
+<div align="center">
 
-### AI-enabled digital product builder · interaction design · systems thinking
+<img src="https://raw.githubusercontent.com/Tooonnnnyyy/Tooonnnnyyy/main/assets/matrix-header.svg" width="100%" alt="Tony Bi — terminal" />
 
-I build small, testable products that turn ambiguous ideas into working interfaces, simulations, and evidence.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=900&color=C15F3C&center=true&vCenter=true&width=560&height=40&lines=business+management+%E2%86%92+consumer+behaviour+%E2%86%92+product;small%2C+testable+prototypes+over+big+claims;Ottawa+%C2%B7+open+to+AI+product+work" alt="Typing SVG" />
+</a>
 
-I turn ambiguous ideas into working interfaces, simulations, and evidence. My current work combines digital transformation, product design, browser AI, and practical software delivery.
+<p>
+  <img src="https://img.shields.io/badge/React-C15F3C?style=flat-square&logo=react&logoColor=FBFAF8" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-DC7759?style=flat-square&logo=typescript&logoColor=FBFAF8" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Python-E08B62?style=flat-square&logo=python&logoColor=FBFAF8" alt="Python" />
+  <img src="https://img.shields.io/badge/Swift-A9452B?style=flat-square&logo=swift&logoColor=FBFAF8" alt="Swift" />
+  <img src="https://img.shields.io/badge/Vite-8F3F27?style=flat-square&logo=vite&logoColor=FBFAF8" alt="Vite" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-141413?style=flat-square&logo=githubactions&logoColor=FBFAF8" alt="GitHub Actions" />
+</p>
 
-- 🎓 Master of Digital Transformation student at the University of Ottawa
-- 🧭 Background in business management and consumer behaviour
-- 🛠️ Building with React, Vite, TypeScript, Python, MediaPipe, and Three.js
-- 🔬 Learning through system models, synthetic data, experiments, and user-centred iteration
-- 📍 Ottawa
-- 💼 Open to AI-enabled digital product and product engineering opportunities
+</div>
 
-## Featured projects
+```console
+tony@ottawa:~$ whoami
+tony_bi  # Master of Digital Transformation, University of Ottawa
+         # background: business management + consumer behaviour
+tony@ottawa:~$ cat focus.txt
+turn ambiguous ideas into working interfaces, simulations, and evidence
+tony@ottawa:~$ ls ~/projects
+meme-recognition  vibe-remix  ai-petverse  bearing-cnn  tony-knowledge-garden
+```
 
-| Project | What it demonstrates |
+## What I've built
+
+| Project | One line |
 | --- | --- |
-| [Gesture Meme Studio](https://github.com/Tooonnnnyyy/meme-recognition) | A privacy-first browser computer-vision playground. Face, hand, and pose signals are processed locally with MediaPipe; GitHub Pages deployment runs through tested GitHub Actions. |
-| [Personal AI Career Simulator](https://github.com/Tooonnnnyyy/personal-ai-career-simulator) | An interactive career exploration prototype that connects AI capability building, reflection, and a navigable product experience. |
-| [Personal Portfolio](https://github.com/Tooonnnnyyy/personal-portfolio) | A product-oriented portfolio for explaining work, decisions, and evidence clearly. |
-| [Tethos Island Clone](https://github.com/Tooonnnnyyy/tethos-island-clone) | A Three.js / React interactive world prototype with a focus on accessible interaction and reviewable packaging. |
+| [Gesture Meme Studio](https://github.com/Tooonnnnyyy/meme-recognition) | Local-first webcam gesture recognition, all processing in the browser |
+| [Vibe Remix](https://github.com/Tooonnnnyyy/vibe-remix) | Live-code music with Strudel, remixed in real time |
+| [AI Petverse](https://github.com/Tooonnnnyyy/ai-petverse) | Immersive low-poly 3D pet companion for iOS, in Swift |
+| [Bearing CNN](https://github.com/Tooonnnnyyy/bearing-cnn) | Two-layer 1D CNN for bearing signals, with reproducible evaluation |
+| [Knowledge Garden](https://github.com/Tooonnnnyyy/tony-knowledge-garden) | The notes and experiments behind the prototypes |
 
 ## How I work
 
 ```text
-question → smallest useful prototype → testable evidence → user feedback → next iteration
+question → smallest useful prototype → evidence → feedback → next iteration
 ```
 
-I care about the boundary between a compelling demo and a dependable product: explicit assumptions, version control, meaningful tests, privacy-aware defaults, and honest release status.
-
-## Tech & interests
-
-- **Languages:** JavaScript, TypeScript, Python, HTML, CSS
-- **Tools:** React, Vite, Three.js, MediaPipe, GitHub Actions, Git
-- **Focus:** AI product delivery, browser computer vision, interaction design, systems simulation
-- **Learning:** stochastic processes, inverse-transform sampling, discrete-event simulation, synthetic KPI experiments
+I care about the gap between a convincing demo and something dependable: stated assumptions, version control, tests that mean something, privacy-aware defaults.
 
 ## Connect
 
-- [GitHub projects](https://github.com/Tooonnnnyyy?tab=repositories)
-- [Portfolio repository](https://github.com/Tooonnnnyyy/personal-portfolio)
+[All repositories](https://github.com/Tooonnnnyyy?tab=repositories) · [Knowledge Garden](https://github.com/Tooonnnnyyy/tony-knowledge-garden)
 
-> This profile highlights active prototypes and learning in progress. It does not claim production scale or real-world user metrics where those have not been validated.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:DC7759,55:C15F3C,100:8F3F27&height=100&section=footer&animation=twinkling" width="100%" alt="footer" />
