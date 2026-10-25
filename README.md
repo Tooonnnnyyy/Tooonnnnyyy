@@ -27,25 +27,31 @@ tony@ottawa:~$ ls ~/projects
 meme-recognition  vibe-remix  ai-petverse  bearing-cnn  tony-knowledge-garden
 ```
 
+<img src="https://raw.githubusercontent.com/Tooonnnnyyy/Tooonnnnyyy/main/assets/game-band.svg" width="100%" alt="animated digital landscape" />
+
+<img src="https://raw.githubusercontent.com/Tooonnnnyyy/Tooonnnnyyy/main/assets/ornament-divider.svg" width="100%" alt="" />
+
 ## What I've built
 
-| Project | One line |
-| --- | --- |
-| [Gesture Meme Studio](https://github.com/Tooonnnnyyy/meme-recognition) | Local-first webcam gesture recognition, all processing in the browser |
-| [Vibe Remix](https://github.com/Tooonnnnyyy/vibe-remix) | Live-code music with Strudel, remixed in real time |
-| [AI Petverse](https://github.com/Tooonnnnyyy/ai-petverse) | Immersive low-poly 3D pet companion for iOS, in Swift |
-| [Bearing CNN](https://github.com/Tooonnnnyyy/bearing-cnn) | Two-layer 1D CNN for bearing signals, with reproducible evaluation |
-| [Knowledge Garden](https://github.com/Tooonnnnyyy/tony-knowledge-garden) | The notes and experiments behind the prototypes |
+| Project | What it does | Stack |
+| --- | --- | --- |
+| [Gesture Meme Studio](https://github.com/Tooonnnnyyy/meme-recognition) | Local-first webcam gesture recognition, all processing in the browser | MediaPipe · JavaScript |
+| [Vibe Remix](https://github.com/Tooonnnnyyy/vibe-remix) | Live-code music with Strudel, remixed in real time | Strudel · JavaScript |
+| [AI Petverse](https://github.com/Tooonnnnyyy/ai-petverse) | Immersive low-poly 3D pet companion for iOS | Swift |
+| [Bearing CNN](https://github.com/Tooonnnnyyy/bearing-cnn) | Two-layer 1D CNN for bearing signals, with reproducible evaluation | Python |
+| [Knowledge Garden](https://github.com/Tooonnnnyyy/tony-knowledge-garden) | The notes and experiments behind the prototypes | JavaScript |
 
-## How I work
+<img src="https://raw.githubusercontent.com/Tooonnnnyyy/Tooonnnnyyy/main/assets/quote-card.svg" width="100%" alt="Working principle: build the smallest thing that proves the idea, then let the evidence argue for it." />
 
-```text
-question → smallest useful prototype → evidence → feedback → next iteration
-```
+## Now
 
-I care about the gap between a convincing demo and something dependable: stated assumptions, version control, tests that mean something, privacy-aware defaults.
+- **Studying** — Master of Digital Transformation, University of Ottawa
+- **Building** — small testable prototypes in React, Swift and Python
+- **Open to** — AI product and product engineering work, Ottawa
 
-## Connect
+<img src="https://raw.githubusercontent.com/Tooonnnnyyy/Tooonnnnyyy/main/assets/ornament-divider.svg" width="100%" alt="" />
+
+## Elsewhere
 
 [All repositories](https://github.com/Tooonnnnyyy?tab=repositories) · [Knowledge Garden](https://github.com/Tooonnnnyyy/tony-knowledge-garden)
 
